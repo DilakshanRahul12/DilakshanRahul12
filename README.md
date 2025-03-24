@@ -46,8 +46,6 @@ Welcome to my GitHub profile! I’m a passionate aspiring **Data Scientist** and
   - **Natural Language Processing (NLP)**
   - **Deep Learning** techniques
 
-- 📝 I regularly write about my learning journey and projects. You can check out my blog here: [Link to your blog] or read some of my articles here on GitHub.
-
 ## 🔧 Technologies & Tools
 - **Programming Languages:** Python, Java, R, JavaScript
 - **Libraries/Frameworks:** TensorFlow, PyTorch, Scikit-learn, CatBoost, React, Flask
