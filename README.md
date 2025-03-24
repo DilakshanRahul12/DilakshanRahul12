@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I’m a passionate aspiring **Data Scientist** and
 
 ## Projects 🧑🏽‍💻
 
-### 🔹 **Horse Racing Management System** (Python/Java)
+### 🔹 **Horse Racing Management System** ([Python](#)/[Java](https://github.com/DilakshanRahul12/Horse-Management-System-Java))
 - Developed a **CLI-based** horse racing management system in **Python** with **CRUD operations** and race visualization.
 - Enhanced into a **GUI system using JavaFX**, introducing a rollback-inspired file management system.
 
-### 🔹 **Autonomous Robot Path Planning (Grid Maze Solver)**
+### 🔹 [**Autonomous Robot Path Planning (Grid Maze Solver)**](https://github.com/DilakshanRahul12/Autonomous-Robot-Path-Planning)
 - Created a **CLI-based maze generator** that builds a maze based on user-defined parameters.
 - Implemented **A* algorithm** for efficient pathfinding, utilizing custom data structures.
 
@@ -16,17 +16,17 @@ Welcome to my GitHub profile! I’m a passionate aspiring **Data Scientist** and
 - Web app enabling hairstyle & makeup experimentation using **HTML5, CSS, JavaScript, XML**.
 - Designed **CSS animations**, interactive gallery, **signup/login pages with validation**, and responsive layouts.
 
-### 🔹 **NYRO: Personalized News Recommendation System**
+### 🔹 [**NYRO: Personalized News Recommendation System**](https://github.com/DilakshanRahul12/CM2601_NYRO)
 - JavaFX-based **news recommendation system** using **NLP and ML** for personalized article suggestions.
 - Implemented **content-based filtering** with **Sentence Transformer ("paraphrase-MiniLM-L3-v2")**.
 - Integrated **NewsAPI** for real-time updates and **PostgreSQL** for data storage.
 
-### 🔹 **Bank Term Deposit Subscription Prediction Using ML**[https://github.com/DilakshanRahul12/Bank-Term-Deposit-Subscription-Prediction-Using-ML](#)
+### 🔹 [**Bank Term Deposit Subscription Prediction Using ML**](https://github.com/DilakshanRahul12/Bank-Term-Deposit-Subscription-Prediction-Using-ML)
 - Used **Bank Marketing dataset** to predict term deposit subscriptions.
 - Applied **SMOTE** for class imbalance, **PCA** for multicollinearity, and **ANN, Random Forest & Stacked Model** for classification.
 - Achieved **79% F1-score** with a stacked model (RF + ANN + Logistic Regression).
 
-### 🔹 **Stock Price Prediction Challenge - INTELLIHACK 5.0**
+### 🔹 [**Stock Price Prediction Challenge - INTELLIHACK 5.0**]()
 - Developed and evaluated **ML models (ARIMA, Linear Regression, LSTM, GRU, Random Forest, XGBoost)** for **5-day** stock price prediction.
 - Conducted **EDA and feature engineering**, assessing models using **MAE and RMSE**.
 - **Linear Regression** proved the most reliable for identifying trends and trading signals.
@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I’m a passionate aspiring **Data Scientist** and
 
 ## 📫 How to reach me
 - Email: [dilakshan.20231421@iit.ac.lk] / [sdila8337@2gmail.com]
-- LinkedIn: [www.linkedin.com/in/dilakshan-surendrabose](#)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/dilakshan-surendrabose)
 
 ## ⚡ Fun Fact
 - Love experimenting with new machine learning models and building personal projects to solve real-world problems!
