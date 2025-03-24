@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I’m a passionate aspiring **Data Scientist** and
 - Implemented **content-based filtering** with **Sentence Transformer ("paraphrase-MiniLM-L3-v2")**.
 - Integrated **NewsAPI** for real-time updates and **PostgreSQL** for data storage.
 
-### 🔹 **Bank Term Deposit Subscription Prediction Using ML**
+### 🔹 **Bank Term Deposit Subscription Prediction Using ML**[https://github.com/DilakshanRahul12/Bank-Term-Deposit-Subscription-Prediction-Using-ML](#)
 - Used **Bank Marketing dataset** to predict term deposit subscriptions.
 - Applied **SMOTE** for class imbalance, **PCA** for multicollinearity, and **ANN, Random Forest & Stacked Model** for classification.
 - Achieved **79% F1-score** with a stacked model (RF + ANN + Logistic Regression).
