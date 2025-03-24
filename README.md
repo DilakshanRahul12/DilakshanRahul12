@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a passionate aspiring **Data Scientist** and
 
 ## Projects 🧑🏽‍💻
 
-### 🔹 **Horse Racing Management System** ([Python](#)/[Java](https://github.com/DilakshanRahul12/Horse-Management-System-Java))
+### 🔹 **Horse Racing Management System** ([Python](https://github.com/DilakshanRahul12/Horse-Management-System-Python-)/[Java](https://github.com/DilakshanRahul12/Horse-Management-System-Java))
 - Developed a **CLI-based** horse racing management system in **Python** with **CRUD operations** and race visualization.
 - Enhanced into a **GUI system using JavaFX**, introducing a rollback-inspired file management system.
 
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I’m a passionate aspiring **Data Scientist** and
 - Applied **SMOTE** for class imbalance, **PCA** for multicollinearity, and **ANN, Random Forest & Stacked Model** for classification.
 - Achieved **79% F1-score** with a stacked model (RF + ANN + Logistic Regression).
 
-### 🔹 [**Stock Price Prediction Challenge - INTELLIHACK 5.0**]()
+### 🔹 [**Stock Price Prediction Challenge - INTELLIHACK 5.0**](https://github.com/SachithPathiranage/Intellihack_Pandas_and_Pythons_Task_4)
 - Developed and evaluated **ML models (ARIMA, Linear Regression, LSTM, GRU, Random Forest, XGBoost)** for **5-day** stock price prediction.
 - Conducted **EDA and feature engineering**, assessing models using **MAE and RMSE**.
 - **Linear Regression** proved the most reliable for identifying trends and trading signals.
