@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I’m a passionate aspiring **Data Scientist** and
 - **Databases:** MySQL, PostgreSQL
 
 ## 📫 How to reach me
-- Email: [Main](sdila8337@2gmail.com) / [secondary](dilakshan.20231421@iit.ac.lk) 
+- Email: [Main](sdila8337@2gmail.com) / [Secondary](dilakshan.20231421@iit.ac.lk) 
 - LinkedIn: [LinkedIn](www.linkedin.com/in/dilakshan-surendrabose)
 
 ## ⚡ Fun Fact
