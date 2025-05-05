@@ -46,9 +46,10 @@ Welcome to my GitHub profile! I’m a passionate aspiring **Data Scientist** and
 - 👯 I’m looking to collaborate on interesting **AI/ML** and **data-driven projects**.
   
 - 🤖 I’m actively exploring:
-  - **AI Agents**
+  - **AI Agents/ MCP**
   - **Natural Language Processing (NLP)**
   - **Deep Learning** techniques
+  - **Q-Learning**
 
 ## 🔧 Technologies & Tools
 - **Programming Languages:** Python, Java, R, JavaScript
@@ -56,7 +57,7 @@ Welcome to my GitHub profile! I’m a passionate aspiring **Data Scientist** and
 - **Databases:** MySQL, PostgreSQL
 
 ## 📫 How to reach me
-- Email: [dilakshan.20231421@iit.ac.lk] / [sdila8337@2gmail.com]
+- Email: [Main](sdila8337@2gmail.com) / [secondary](dilakshan.20231421@iit.ac.lk) 
 - LinkedIn: [LinkedIn](www.linkedin.com/in/dilakshan-surendrabose)
 
 ## ⚡ Fun Fact
