@@ -4,6 +4,10 @@ Welcome to my GitHub profile! I’m a passionate aspiring **Data Scientist** and
 
 ## Projects 🧑🏽‍💻
 
+### 🔹 [**DiaTrack: A Data-Driven Approach for Improved Patient Care by Readmission, Mortality and Diabetic Predictions**](https://github.com/Chanidu-Edirisinghe/DSGP-G9)
+- Developed the Mortality Risk Prediction model for DiaTrack, estimating in-hospital death risk using ICU data and vitals.
+- Contributed to the integrated system, DiaTrack, which utilizes ML models for classification, readmission, and mortality prediction, built with React, Flask, MongoDB, and a Rasa chatbot.
+
 ### 🔹 **Horse Racing Management System** ([Python](https://github.com/DilakshanRahul12/Horse-Management-System-Python-)/[Java](https://github.com/DilakshanRahul12/Horse-Management-System-Java))
 - Developed a **CLI-based** horse racing management system in **Python** with **CRUD operations** and race visualization.
 - Enhanced into a **GUI system using JavaFX**, introducing a rollback-inspired file management system.
