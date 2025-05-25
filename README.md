@@ -1,12 +1,13 @@
 # Hii ! I'm Dilakshan! 👋
 
-Welcome to my GitHub profile! I’m a passionate aspiring **Data Scientist** and **Machine Learning Engineer**. I work on various interesting projects involving **Machine Learning**, **Data Science**, **AI**, and **Web Development**.
+Welcome to my GitHub profile! I’m a passionate aspiring **AI Engineer**, **Machine Learning Engineer** and ****Data Engineer****. I work on various interesting projects involving **Machine Learning**, **Data Science**, **AI**, and **Web Development**.
 
 ## Projects 🧑🏽‍💻
 
 ### 🔹 [**DiaTrack: A Data-Driven Approach for Improved Patient Care by Readmission, Mortality and Diabetic Predictions**](https://github.com/Chanidu-Edirisinghe/DSGP-G9)
-- Developed the Mortality Risk Prediction model for DiaTrack, estimating in-hospital death risk using ICU data and vitals.
-- Contributed to the integrated system, DiaTrack, which utilizes ML models for classification, readmission, and mortality prediction, built with React, Flask, MongoDB, and a Rasa chatbot.
+- Spearheaded the development and implementation of the In-Hospital Mortality Risk Prediction Model, utilizing ICU data and machine learning to accurately estimate patient mortality risk.
+- Contributed to the project's development lifecycle through active participation in team reviews, documentation, and testing, resulting in a high-performing model (Accuracy 91% | 72% macro-avg F1)
+- Developed Frontend and backend with React and Flask
 
 ### 🔹 **Horse Racing Management System** ([Python](https://github.com/DilakshanRahul12/Horse-Management-System-Python-)/[Java](https://github.com/DilakshanRahul12/Horse-Management-System-Java))
 - Developed a **CLI-based** horse racing management system in **Python** with **CRUD operations** and race visualization.
@@ -15,10 +16,6 @@ Welcome to my GitHub profile! I’m a passionate aspiring **Data Scientist** and
 ### 🔹 [**Autonomous Robot Path Planning (Grid Maze Solver)**](https://github.com/DilakshanRahul12/Autonomous-Robot-Path-Planning)
 - Created a **CLI-based maze generator** that builds a maze based on user-defined parameters.
 - Implemented **A* algorithm** for efficient pathfinding, utilizing custom data structures.
-
-### 🔹 **Beautichic (Website)**
-- Web app enabling hairstyle & makeup experimentation using **HTML5, CSS, JavaScript, XML**.
-- Designed **CSS animations**, interactive gallery, **signup/login pages with validation**, and responsive layouts.
 
 ### 🔹 [**NYRO: Personalized News Recommendation System**](https://github.com/DilakshanRahul12/CM2601_NYRO)
 - JavaFX-based **news recommendation system** using **NLP and ML** for personalized article suggestions.
@@ -38,10 +35,10 @@ Welcome to my GitHub profile! I’m a passionate aspiring **Data Scientist** and
 ---
   
 - 🌱 I’m currently learning:
+  - **AWS** (AI Practitioner AIF-C01)
   - **React** for building web apps
   - **AI Agents** and their deployment
-  - **AWS**
-  - **R Programming** for statistical computing
+
   
 - 👯 I’m looking to collaborate on interesting **AI/ML** and **data-driven projects**.
   
@@ -53,15 +50,15 @@ Welcome to my GitHub profile! I’m a passionate aspiring **Data Scientist** and
 
 ## 🔧 Technologies & Tools
 - **Programming Languages:** Python, Java, R, JavaScript
-- **Libraries/Frameworks:** TensorFlow, PyTorch, Scikit-learn, CatBoost, React, Flask
-- **Databases:** MySQL, PostgreSQL
+- **Libraries/Frameworks:** TensorFlow, PyTorch, Scikit-learn, CatBoost, React, Flask, Transformer, Unsloth
+- **Databases:** MySQL, PostgreSQL, Sqlite
 
 ## 📫 How to reach me
-- Email: [Main](sdila8337@gmail.com) / [Secondary](dilakshan.20231421@iit.ac.lk) 
+- Email: [Main](dilakshansurendrabose@gmail.com) / [Secondary](dilakshan.20231421@iit.ac.lk) 
 - LinkedIn: [LinkedIn](www.linkedin.com/in/dilakshan-surendrabose)
 
 ## ⚡ Fun Fact
-- Love experimenting with new machine learning models and building personal projects to solve real-world problems!
+- Love experimenting with machine learning models and building personal projects to solve real-world problems!
 - Love playing guiter 🎸
 - Wannabe Ployglot (Malayalam/Spanish/Japanese)
 ---
